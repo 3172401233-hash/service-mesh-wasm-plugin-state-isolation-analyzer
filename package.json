@@ -1,0 +1,10 @@
+{
+  "name": "service-mesh-wasm-plugin-state-isolation-analyzer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "分析服务网格 Wasm 插件生命周期的状态隔离、热更新顺序与失败回收（不执行真实 Wasm）",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
